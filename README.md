@@ -8,9 +8,9 @@
 
 ###  Tecnologias utilizadas
 
-|&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;|SpringBoot|Hibernate|&nbsp;REST&nbsp;|Json|IntelliJ|Eclipse|
+|&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;|SpringBoot|Hibernate|REST|Json|IntelliJ|Eclipse|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|<img src="/images/java.png" width="100"/> <h6></h6>| <img src="/images/spring.png" width="80"/><h6></h6>|<img src="/images/hibernate.png" width="50"/> <h6></h6>|<img src="/images/rest.jpeg" width="100"/> <h6></h6>|<img src="/images/json.png" width="60"/> <h6></h6>|<img src="/images/intelliJ.png" width="60"/> <h6></h6>|<img src="/images/eclipse.jpg" width="60"/> <h6></h6>|
+|<img src="/images/java.png" width="70"/> <h6></h6>| <img src="/images/spring.png" width="80"/><h6></h6>|<img src="/images/hibernate.png" width="50"/> <h6></h6>|<img src="/images/rest.jpeg" width="100"/> <h6></h6>|<img src="/images/json.png" width="60"/> <h6></h6>|<img src="/images/intelliJ.png" width="60"/> <h6></h6>|<img src="/images/eclipse.jpg" width="60"/> <h6></h6>|
 |<img src="/images/level9.png" width="40"/>|<img src="/images/level8.png" width="40"/>|<img src="/images/level7.png" width="40"/>|<img src="/images/level9.png" width="40"/>|<img src="/images/level10.png" width="40"/>|<img src="/images/level10.png" width="40"/>|<img src="/images/level9.png" width="40"/>|
 
 |HTML|&nbsp;CSS&nbsp;|Angular|React|JHipster|VSCode|MySQL|Postgree|MariaDB|

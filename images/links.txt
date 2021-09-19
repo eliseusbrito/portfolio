@@ -7,6 +7,7 @@ https://cdn.icon-icons.com/icons2/2699/PNG/512/hibernate_logo_icon_171004.png
 
 SpringBoot
 https://ichi.pro/assets/images/max/724/1*gxXLMIuJDHCH7fwIgEP1cg.png
+https://medium.com/rapaduratech/microservices-em-java-com-spring-boot-3fc3ec75638d
 
 css
 https://www.iconfinder.com/icons/317756/badge_css_css3_achievement_award_reward_trophy_icon
@@ -22,3 +23,11 @@ https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png
 
 gits
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARwmNpHgG9Hl8b1jrb4tvXRhpIWod15Cu9A&usqp=CAU
+
+rest
+https://www.payoda.com/designing-rest-apis-the-right-way/
+
+json
+https://www.zdnet.com/article/oracle-brings-the-autonomous-database-to-json/
+
+
