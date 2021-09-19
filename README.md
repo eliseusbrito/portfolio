@@ -1,17 +1,17 @@
-<p style="font-family: Papyrus, times, serif; font-size:40pt; font-style:italic">
-    <b>Meu Portfólio</b>
-</p>
+# :door: *Meu Portfólio*  :dart:
 
-<p style="font-family: times, serif; font-size:16pt; font-style:italic"><b>Portfólio criado com o objetivo de mostrar projetos desenvolvidos e registro de estudos realizados.</p>
+
+<b>Portfólio criado com o objetivo de mostrar projetos desenvolvidos e registro de estudos realizados.</b>
 
 <a href="https://www.linkedin.com/in/eliseusilveirabrito/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> Eliseu Silveira Brito</a>
 <br>
 
 ###  Tecnologias utilizadas
 
+|Java|SpringBoot|Hibernate|IntelliJ|HTML|CSS|Angular|VSCode|Git/Github/Gitlab/Bitbucket|
+|-|-|-|-|-|-|-|-|-|
+|<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="50"/> <h6></h6>| <img src="https://ichi.pro/assets/images/max/724/1*gxXLMIuJDHCH7fwIgEP1cg.png" width="80"/> <h6>|<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/hibernate_logo_icon_171004.png" width="40"/> <h6></h6>|<img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/icon_CE_256_2Qe5uEl.png" width="50"/> <h6></h6>|<img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png" width="50"/> <h6></h6>| <img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5351-css3_102605.png" width="100"/> <h6></h6>|<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png" width="40"/> <h6></h6>|<img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="40"/> <h6></h6>|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARwmNpHgG9Hl8b1jrb4tvXRhpIWod15Cu9A&usqp=CAU" width="50"/> <h6></h6>|
 
-|<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="50"/> <h6>Java</h6>| <img src="https://ichi.pro/assets/images/max/724/1*gxXLMIuJDHCH7fwIgEP1cg.png" width="80"/> <h6>SpringBoot</h6>|<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/hibernate_logo_icon_171004.png" width="40"/> <h6>Hibernate</h6>|<img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/icon_CE_256_2Qe5uEl.png" width="50"/> <h6>IntelliJ</h6>|<img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png" width="50"/> <h6>HTML</h6>| <img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5351-css3_102605.png" width="100"/> <h6>CSS</h6>|<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png" width="40"/> <h6>Angular</h6>|<img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="40"/> <h6>VSCode</h6>|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARwmNpHgG9Hl8b1jrb4tvXRhpIWod15Cu9A&usqp=CAU" width="50"/> <h6>Git/Github/Gitlab/Bitbucket</h6>|
-|-|-|-|-|-|-|-|-|-|-|
 
 <h2 align=rigth > Principais Projetos</h2>
 
