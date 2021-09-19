@@ -8,9 +8,17 @@
 
 ###  Tecnologias utilizadas
 
-|Java|SpringBoot|Hibernate|IntelliJ|HTML|CSS|Angular|VSCode|Git/Github/Gitlab/Bitbucket|
-|-|-|-|-|-|-|-|-|-|
-|<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="50"/> <h6></h6>| <img src="https://ichi.pro/assets/images/max/724/1*gxXLMIuJDHCH7fwIgEP1cg.png" width="80"/> <h6>|<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/hibernate_logo_icon_171004.png" width="40"/> <h6></h6>|<img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/icon_CE_256_2Qe5uEl.png" width="50"/> <h6></h6>|<img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png" width="50"/> <h6></h6>| <img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5351-css3_102605.png" width="100"/> <h6></h6>|<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png" width="40"/> <h6></h6>|<img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="40"/> <h6></h6>|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARwmNpHgG9Hl8b1jrb4tvXRhpIWod15Cu9A&usqp=CAU" width="50"/> <h6></h6>|
+|&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;|SpringBoot|Hibernate|&nbsp;REST&nbsp;|IntelliJ|Eclipse|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|<img src="/images/java.png" width="100"/> <h6></h6>| <img src="/images/spring.png" width="80"/><h6></h6>|<img src="/images/hibernate.png" width="50"/> <h6></h6>|<img src="/images/rest.jpeg" width="100"/> <h6></h6>|<img src="/images/intelliJ.png" width="60"/> <h6></h6>|<img src="/images/eclipse.jpg" width="60"/> <h6></h6>|
+
+|HTML|&nbsp;CSS&nbsp;|Angular|VSCode|
+|:-:|:-:|:-:|:-:|
+|<img src="/images/html.png" width="50"/> <h6></h6>| <img src="/images/css.png" width="50"/> <h6></h6>|<img src="/images/angular.png" width="50"/> <h6></h6>|<img src="/images/vscode.png" width="45"/> <h6></h6>|
+
+|Docker|Git/Github/Gitlab/Bitbucket|
+|:-:|:-:|
+|<img src="/images/docker.png" width="80"/> <h6></h6>|<img src="/images/gits.jpg" width="50"/> <h6></h6>|
 
 
 <h2 align=rigth > Principais Projetos</h2>
@@ -41,6 +49,17 @@
 ##### Estatatísticas gerado por:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+###### Portfolio de outros desenvolvedores
+https://github.com/emmabostian/developer-portfolios
+
+https://gist.github.com/reginadiana
+
+https://github.com/iuricode/portfolio
+
+https://github.com/lopesdiego12/portfolio
+https://lopesdiego12.github.io/portfolio/
 
 
 
