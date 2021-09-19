@@ -8,17 +8,20 @@
 
 ###  Tecnologias utilizadas
 
-|&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;|SpringBoot|Hibernate|&nbsp;REST&nbsp;|IntelliJ|Eclipse|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|<img src="/images/java.png" width="100"/> <h6></h6>| <img src="/images/spring.png" width="80"/><h6></h6>|<img src="/images/hibernate.png" width="50"/> <h6></h6>|<img src="/images/rest.jpeg" width="100"/> <h6></h6>|<img src="/images/intelliJ.png" width="60"/> <h6></h6>|<img src="/images/eclipse.jpg" width="60"/> <h6></h6>|
+|&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;|SpringBoot|Hibernate|&nbsp;REST&nbsp;|Json|IntelliJ|Eclipse|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|<img src="/images/java.png" width="100"/> <h6></h6>| <img src="/images/spring.png" width="80"/><h6></h6>|<img src="/images/hibernate.png" width="50"/> <h6></h6>|<img src="/images/rest.jpeg" width="100"/> <h6></h6>|<img src="/images/json.png" width="60"/> <h6></h6>|<img src="/images/intelliJ.png" width="60"/> <h6></h6>|<img src="/images/eclipse.jpg" width="60"/> <h6></h6>|
+|<img src="/images/level9.png" width="40"/>|<img src="/images/level8.png" width="40"/>|<img src="/images/level7.png" width="40"/>|<img src="/images/level9.png" width="40"/>|<img src="/images/level10.png" width="40"/>|<img src="/images/level10.png" width="40"/>|<img src="/images/level9.png" width="40"/>|
 
-|HTML|&nbsp;CSS&nbsp;|Angular|VSCode|
-|:-:|:-:|:-:|:-:|
-|<img src="/images/html.png" width="50"/> <h6></h6>| <img src="/images/css.png" width="50"/> <h6></h6>|<img src="/images/angular.png" width="50"/> <h6></h6>|<img src="/images/vscode.png" width="45"/> <h6></h6>|
+|HTML|&nbsp;CSS&nbsp;|Angular|React|JHipster|VSCode|MySQL|Postgree|MariaDB|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|<img src="/images/html.png" width="50"/> <h6></h6>| <img src="/images/css.png" width="50"/> <h6></h6>|<img src="/images/angular.png" width="50"/> <h6></h6>|<img src="/images/react.png" width="50"/> <h6></h6>|<img src="/images/jhipster.png" width="55"/> <h6></h6>|<img src="/images/vscode.png" width="45"/> <h6></h6>|<img src="/images/mysql.png" width="45"/> <h6></h6>|<img src="/images/postgree.svg" width="45"/> <h6></h6>|<img src="/images/maria.png" width="45"/> <h6></h6>|
+|<img src="/images/level9.png" width="40"/>|<img src="/images/level7.png" width="40"/>|<img src="/images/level6.png" width="40"/>|<img src="/images/level2.png" width="40"/>|<img src="/images/level6.png" width="40"/>|<img src="/images/level10.png" width="40"/>|<img src="/images/level7.png" width="40"/>|<img src="/images/level7.png" width="40"/>|<img src="/images/level7.png" width="40"/>|
 
-|Docker|Git/Github/Gitlab/Bitbucket|
-|:-:|:-:|
-|<img src="/images/docker.png" width="80"/> <h6></h6>|<img src="/images/gits.jpg" width="50"/> <h6></h6>|
+|Postman|Docker|Heroku|Git/Github/Gitlab/Bitbucket|Azure|AWS|GCP
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|<img src="/images/postman.png" width="60"/> <h6></h6>|<img src="/images/docker.png" width="80"/> <h6></h6>|<img src="/images/heroku.png" width="80"/> <h6></h6>|<img src="/images/gits.jpg" width="50"/> <h6></h6>|<img src="/images/azure.png" width="70"/> <h6></h6>|<img src="/images/aws.png" width="90"/> <h6></h6>|<img src="/images/gcp.png" width="100"/> <h6></h6>|
+|<img src="/images/level9.png" width="40"/>|<img src="/images/level7.png" width="40"/>|<img src="/images/level6.png" width="40"/>|<img src="/images/level8.png" width="40"/>|<img src="/images/level6.png" width="40"/>|<img src="/images/level1.png" width="40"/>|<img src="/images/level3.png" width="40"/>|
 
 
 <h2 align=rigth > Principais Projetos</h2>
